@@ -3,6 +3,8 @@
  */
 /**
  * Created by zhangjianhua on 15/9/16.
+ * wechat js api
+ * v1.0.0
  */
 function WechatJS(option) {
     var self = this;
